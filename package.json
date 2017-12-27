@@ -1,6 +1,6 @@
 {
   "name": "ladda-fp",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Minimal FP helpers for ladda",
   "main": "dist/bundle.js",
   "module": "dist/module.js",
