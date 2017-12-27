@@ -4,6 +4,7 @@
   "description": "Minimal FP helpers for ladda",
   "main": "dist/bundle.js",
   "module": "dist/module.js",
+  "files": ["dist/module.js"],
   "devDependencies": {
     "babel-core": "^6.9.0",
     "babel-plugin-istanbul": "^4.0.0",
